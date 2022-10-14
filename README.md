@@ -11,3 +11,11 @@ In this project I analyzed Medical Appointment **No Shows Dataset** using Python
 One limitation that affected my analysis is the absence of relevant or backkgound data, the independent variables in the dataset provided has no clear correlation with the dependent varible.
 
 **Providing Data like:** Time the sms was sent and the demographic information about patients that recieved them. The severity of patience with special condition.
+
+## Requirement 
+import numpy
+import pandas
+import matplotlib.pyplot
+import seaborn 
+
+%matplotlib inline
